@@ -12,9 +12,9 @@
   
 <div class="lista">
   
-    - 🔭 Atualmente procuro trabalhar como Desenvolvedor Full Stack
+    - 🔭 Atualmente procuro trabalhar como Desenvolvedor
 
-    - 🌱 Atualmente estou aprendendo sobre Python e Django
+    - 🌱 Estou me aprofundando em Java no momento
 
     - 📫 E-mail para contato: flavio.valle2006@gmail.com
 
