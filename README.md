@@ -30,7 +30,7 @@
   <div class="status">
     
 <img src="https://github-readme-stats.vercel.app/api?username=flavio-valle&theme=react&show_icons=true&locale=pt-br" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-valle&langs_count=4" width="300px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-valle&langs_count=4&locale=pt-br" width="300px"/>
     
   </div>
   
