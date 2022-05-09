@@ -30,7 +30,7 @@
   <div class="status">
     
 <img src="https://github-readme-stats.vercel.app/api?username=flavio-valle&theme=react&show_icons=true&locale=pt-br" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=4"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavio-valle&langs_count=4" width="300px"/>
     
   </div>
   
@@ -50,7 +50,6 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="70px" height="60px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70px" height="60px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70px" height="60px"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="70px" height="60px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="70px" height="60px"/>
 
   </div>
