@@ -12,7 +12,7 @@
   
 <div class="lista">
   
-    - 🔭 Atualmente procuro trabalhar como Desenvolvedor
+    - 🔭 Atualmente trabalho como Programador Web
 
     - 🌱 Estou me aprofundando em Java no momento
 
@@ -37,7 +37,6 @@
   ## <br>
   
   <div class="linguagens">
-    
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="70px" height="60px"/> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="70px" height="60px" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70px" height="60px"/>
@@ -51,6 +50,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="70px" height="60px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="70px" height="60px"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" width="70px" height="60px"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg" width="70px" height="60px"/>
 
   </div>
   
